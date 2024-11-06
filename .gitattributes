@@ -1,1 +1,2 @@
 *.json,[[:space:]]*.tar filter=lfs diff=lfs merge=lfs -text
+*.json,[[:space:]]*.tar,[[:space:]]*.txt filter=lfs diff=lfs merge=lfs -text
